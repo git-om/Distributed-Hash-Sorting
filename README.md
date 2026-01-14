@@ -1,5 +1,5 @@
 # CS553 – Cloud Computing  
-## Assignment 5 – Hashgen, Sort, & Search on Hadoop/Spark  
+Hashgen, Sort, & Search on Hadoop/Spark  
 
 **Course:** CS553 – Cloud Computing  
 **Team:** Om Ashokkumar Patel, Het Patel  
